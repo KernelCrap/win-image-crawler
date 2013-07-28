@@ -14,7 +14,7 @@ The following packages are required:
 
 What does it do?
 ================
-As it is, the problem is given a place to start, then it will do the following:
+As it is, the program is given a place to start, then it will do the following:
 
 1. Download the given page and parses it.
 2. Loops through all images on the page.
